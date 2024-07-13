@@ -1,5 +1,5 @@
 from django.db import models
 
 
-class Requests(models.Model):
+class Request(models.Model):
     query = models.TextField()
