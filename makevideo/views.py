@@ -1,5 +1,4 @@
 import os
-import urllib
 from pathlib import Path
 import wget
 from makevideo.utils.funcs import make_video
